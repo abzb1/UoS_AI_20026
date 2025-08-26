@@ -32,6 +32,3 @@ UoS_AI_20026/
 - Tested on Google Colab (T4 GPU). 
 - Uses public datasets/models from Hugging Face. 
 - HF token is optional for public resources.
-
-## License
-MIT — see LICENSE.
