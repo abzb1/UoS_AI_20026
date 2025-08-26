@@ -1,4 +1,4 @@
-# UoS_AI_20026 — NLP Practice Notebooks
+# UoS AI 20026 — NLP Practice Notebooks
 
 Minimal, classroom-friendly notebooks for the University of Seoul NLP course (AI 20026).   
 Each notebook is Colab-ready and verified to run end-to-end on a T4 GPU.
