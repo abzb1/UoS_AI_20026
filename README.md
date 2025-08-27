@@ -1,6 +1,6 @@
-# UoS AI 20026 — NLP Practice Notebooks
+# UoS AI 20026 — Natural Language Processing
 
-Minimal, classroom-friendly notebooks for the University of Seoul NLP course (AI 20026).   
+Minimal, classroom-friendly practice Jupyter Notebooks for the University of Seoul NLP course (AI 20026).   
 Each notebook is Colab-ready and verified to run end-to-end on a T4 GPU.
 
 - [Class page](https://uos-nlp.notion.site/Natural-Language-Processing-23d406a65da78073a8e0fb48bf204d17?pvs=143)
